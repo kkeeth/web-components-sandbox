@@ -2,3 +2,7 @@ hello-world {
   font-weight: bold;
   color: red;
 }
+
+:host {
+  transform: rotate(180deg);
+}
